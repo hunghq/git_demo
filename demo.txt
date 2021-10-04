@@ -6,3 +6,5 @@ Feature changes
 
 
 Dinh Hung commit
+
+Feature 3
